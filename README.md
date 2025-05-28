@@ -3,10 +3,8 @@
 
 
 # REQUIRMENTS
-=============
 python 3.11.9 or higher
 run `pip install -U discord.py` in your terminal
-=============
 
 ✅ Discord Developer Portal To-Do List
 1. Create a New Application
