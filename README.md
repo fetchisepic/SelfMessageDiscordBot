@@ -1,5 +1,5 @@
 # SelfMessageDiscordBot
-|made by fetch, please give creds if ur gonna skid my code lmao|
+| made by fetch, please give creds if ur gonna skid my code lmao |
 
 
 # REQUIRMENTS
